@@ -8,12 +8,7 @@ import "firebase/compat/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCryIv2Y6yjBwG_iNTGpGf3VOESbBrE0Qk",
-  authDomain: "cart-4fa0e.firebaseapp.com",
-  projectId: "cart-4fa0e",
-  storageBucket: "cart-4fa0e.appspot.com",
-  messagingSenderId: "628135944236",
-  appId: "1:628135944236:web:8c8f6083fc6582cc52b189",
+  // add your firebase config
 };
 
 // Initialize Firebase
